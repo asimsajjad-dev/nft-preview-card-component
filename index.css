@@ -124,3 +124,9 @@ hr{
 .attribution{
     text-align: center;
 }
+@media (max-width:45trem){
+    .container{
+        height:80vh;
+    }
+
+}
