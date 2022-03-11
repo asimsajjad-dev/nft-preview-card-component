@@ -124,13 +124,4 @@ hr{
 .attribution{
     text-align: center;
 }
-@media (max-width:45rem) {
-    .container{
-        height:100%;
-    }
-    .card-container{
-        margin: 20% auto;
-        height: 100%;
-    }
-    
-}
+
